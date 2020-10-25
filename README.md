@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hello there, how is it going?👋
 
-<!--
-**reness0/reness0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- **My name is Renê, this is my personal readme, i hope you enjoy it.** 
 
-Here are some ideas to get you started:
+--- Here is where i upload my studies, projects and personal stuff. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently studying for an entrance exam, and looking for a first job to start my carrer 
+- 🌱 I’m currently learning Flutter, and Java, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
