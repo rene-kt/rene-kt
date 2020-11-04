@@ -21,7 +21,7 @@
   🔥 I'd like to learn: <strong>Angular, Dart/Flutter frameworks, Docker, RabbitMQ, Native android (Java or Kotlin).</strong>
 </p>
 <p align="left">
- 💡 Future projects ideas/coming soon: <strong>E-commerce mobile (using Flutter) and Web (with Java, Spring and Angular), my personal site to shows up my past projects. </strong>
+ 💡 Future projects ideas/coming soon: <strong>E-commerce mobile (using Flutter) and Web (with Java, Spring and Angular).</strong>
 </p>
 
 <p align="left">
