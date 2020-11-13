@@ -15,13 +15,13 @@
 
 <p align="left">
   
-  💻 Skills: <strong>Java, JPA/Hibernate, JavaFX, Spring Framwework, API REST, MYSQL, HTML/CSS, and Flutter.</strong>
+  💻 Skills: <strong>Java, JPA/Hibernate, JavaFX, Spring Framwework, API REST, TypeScript (Angular and Ionic), MYSQL, HTML/CSS, and Flutter.</strong>
 </p>
 <p align="left">
-  🔥 I'd like to learn: <strong>Angular, Dart/Flutter frameworks, Docker, RabbitMQ, Native android (Java or Kotlin).</strong>
+  🔥 I'd like to learn: <strong>Dart/Flutter frameworks, Docker, RabbitMQ, Native android (Java or Kotlin).</strong>
 </p>
 <p align="left">
- 💡 Future projects ideas/coming soon: <strong>E-commerce mobile (using Flutter) and Web (with Java, Spring and Angular).</strong>
+ 💡 Future projects ideas/coming soon: <strong>E-commerce mobile (using Flutter) and Web (with Angular) both connected through a REST API nade with Java and Spring Boot.</strong>
 </p>
 
 <p align="left">
