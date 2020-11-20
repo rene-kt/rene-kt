@@ -4,8 +4,6 @@
   
   Hello there, how is it going? My name is Renê, I am a <strong>BackEnd Developer</strong>, and this is my GitHub, i hope you enjoy it.
   <br>
-  <br>
-  I am in the last year of the high school, next year (2021) i want to study Software Enginne in a college. 
 </p>
 
 <p align='center'>
