@@ -6,6 +6,9 @@
   <br>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reness0&color=blue" alt="reness0" /> </p>
+
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reness0&layout=compact" width="350"></a>
 </p>
