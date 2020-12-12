@@ -11,7 +11,7 @@
 
 
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reness0&layout=compact" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reness0&layout=compact&theme=react" width="350"></a>
 </p>
 
 
