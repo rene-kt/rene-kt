@@ -4,6 +4,8 @@
   Hello there, how is it going? My name is Renê, I am a <strong>BackEnd Developer</strong>, and this is my GitHub, i hope you enjoy it.
   <br>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reness0&theme=nord" alt="willdoescode" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reness0&color=blue" alt="reness0" /> </p>
 
