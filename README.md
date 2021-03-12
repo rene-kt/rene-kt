@@ -21,9 +21,6 @@
 <p align="left">
   🔥 I'd like to learn: <strong>Dart/Flutter frameworks, Docker, RabbitMQ, Native android (Java or Kotlin).</strong>
 </p>
-<p align="left">
- 💡 Future projects ideas/coming soon: <strong>E-commerce mobile (using Flutter) and Web (with Angular) both connected through a REST API made with Java and Spring Framwework.</strong>
-</p>
 
 <p align="left">
 <a href="mailto:renejr.arraes286@gmail.com" alt="Gmail">
