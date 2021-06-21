@@ -4,14 +4,15 @@
   Hello there, how is it going? My name is Renê, I am a <strong>BackEnd Developer</strong>, and this is my GitHub, i hope you enjoy it.
   <br>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reness0&theme=nord" alt="willdoescode" /></a> </p>
+
+<div>
+  <a href="https://github.com/reness0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reness0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reness0&layout=compact&theme=react"></a>
+
+</div>  
 
 
-
-
-<p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reness0&layout=compact&theme=react" width="350"></a>
-</p>
 
 
 <p align="left">
