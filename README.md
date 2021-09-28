@@ -1,7 +1,7 @@
 
 <p align="left">
   
-  Hello there, how is it going? My name is Renê, I am a <strong>BackEnd Developer</strong>, and this is my GitHub, i hope you enjoy it.
+  Hello there, how is it going? My name is Renê and this is my GitHub, i hope you enjoy it.
   <br>
 </p>
 
@@ -17,18 +17,28 @@
 
 <p align="left">
   
-  💻 Skills: <strong>Java, JPA/Hibernate, Spring Framwework, API REST, TypeScript (Angular and Ionic), MYSQL, HTML/CSS, and Flutter.</strong>
-</p>
-<p align="left">
-  🔥 I'd like to learn: <strong>Dart/Flutter frameworks, Docker, RabbitMQ, Native android (Java or Kotlin).</strong>
+   <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <br>
+  <br>
+  :desktop_computer: <strong>Work/Study:</strong> I'm currently working on <strong><a href="https://github.com/TotalCross/">@Totalcross</a></strong> and doing <strong>Computer Science</strong> at the University Federal of Ceará	 
+  <br>
+  
 </p>
 
 <p align="left">
 <a href="mailto:renejr.arraes286@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=renejr.arraes286@gmail.com@gmail.com" /></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 <a href="https://www.linkedin.com/in/renê-júnior-55901b198/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renê-júnior-55901b198/" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://t.me/renejr03" alt = "Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   
 
  
