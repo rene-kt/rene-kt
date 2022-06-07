@@ -1,10 +1,4 @@
 
-<p align="left">
-  
-  Hello there, how is it going? My name is Renê and this is my GitHub, i hope you enjoy it.
-  <br>
-</p>
-
 <div>
   <a href="https://github.com/reness0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reness0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
