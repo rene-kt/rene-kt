@@ -19,7 +19,7 @@
    <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <br>
   <br>
-:desktop_computer: <strong>Work/Study:</strong> I'm currently working at <a href="https://knowcode.app">KnowCode</a> and doing <strong>Computer Science</strong> at the University Federal of Ceará	 
+:desktop_computer: <strong>Work/Study:</strong> I'm currently working at <a href="https://www.cogna.com.br/">Cogna</a> and doing <strong>Computer Science</strong> at the University Federal of Ceará	 
   <br>
   
 </p>
