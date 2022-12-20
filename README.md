@@ -21,7 +21,8 @@
   <br>
 :desktop_computer: <strong>Work/Study:</strong> I'm currently working at <a href="https://www.cogna.com.br/">Cogna</a> and doing <strong>Computer Science</strong> at the University Federal of Ceará	 
   <br>
-  
+  <br>
+:book: <strong>Please, take a read:</strong> https://medium.com/@renejr03/implementing-authentication-and-authorization-using-spring-security-kotlin-and-jwt-an-easy-and-cc82a1f20567
 </p>
 
 <p align="left">
